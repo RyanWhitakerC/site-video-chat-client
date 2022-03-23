@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Video from "twilio-video";
 import { Container, Row, Col, Button, Input } from "reactstrap";
 
-const twilioRuntimeDomain = "videotesting-8801.twil.io";
+const twilioRuntimeDomain = "URL";
 
 export default class VideoComp extends Component {
   constructor(props) {
